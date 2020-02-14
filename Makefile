@@ -4,3 +4,4 @@ ALL:
 
 CLEAN:
 	rm lab0 lab0.o
+	
